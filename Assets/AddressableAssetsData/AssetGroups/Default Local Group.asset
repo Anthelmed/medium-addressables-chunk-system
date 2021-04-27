@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6fdd8533221391e4fb279b54a771bb29
+  m_SerializeEntries:
+  - m_GUID: e17cf0da029bee647bf44ea0de3631e4
+    m_Address: Assets/Prefabs/HexagonTiles/grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1081f7de914e55848ab34d3cb51c4aa8
+    m_Address: Assets/Prefabs/HexagonTiles/grass_forest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe5662dbbdbff934e8f18c571720f5e6
+    m_Address: Assets/Prefabs/HexagonTiles/river_straight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0c5efbb0a510b3f45b28b25257d3a719
+    m_Address: Assets/Prefabs/HexagonTiles/river_corner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f51bb60b70f8593428e9a5e6a9e24017
+    m_Address: Assets/Prefabs/HexagonTiles/river_corner (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 73779392edcba5e4fa07d9e5c931ac9b
+    m_Address: Assets/Prefabs/HexagonTiles/grass_forest (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8aaa8ed3f7d35145866b1f421bb3718
+    m_Address: Assets/Prefabs/HexagonTiles/building_sheep.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 78d2e194356f8ed4eac067b34627fa1c
+    m_Address: Assets/Prefabs/HexagonTiles/river_corner (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 96c5cad780cb6194cbe145746c21cc8b
+    m_Address: Assets/Prefabs/HexagonTiles/river_straight (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d56de225089a4874e83e4c56b2041713
+    m_Address: Assets/Prefabs/HexagonTiles/dirt_lumber.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71d0f9d91de505141bf7649eb019a4a8
+    m_Address: Assets/Prefabs/HexagonTiles/grass (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4b24142209e228940ae8bfe09042a86d
+    m_Address: Assets/Prefabs/HexagonTiles/building_castle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6bf9f2faa78ff9848b3a0e2c1ad5eb12
+    m_Address: Assets/Prefabs/HexagonTiles/grass (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9692107d9ff649e47a6311d69f7152f2
+    m_Address: Assets/Prefabs/HexagonTiles/building_cabin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d9f6e11324494b458de9bb520b78be5
+    m_Address: Assets/Prefabs/HexagonTiles/stone_mountain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 43c4526e3ff5dcb40818547461cce672
+    m_Address: Assets/Prefabs/HexagonTiles/grass (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 90de7c2cbf2785a48bb00575552d686c
+    m_Address: Assets/Prefabs/HexagonTiles/building_mine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: df4d0020f8b9c0d4795ef818938a453a
+    m_Address: Assets/Prefabs/HexagonTiles/grass_hill (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ad020759d60d0d84589f41511f271835
+    m_Address: Assets/Prefabs/HexagonTiles/building_tower.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d02a2a2a287bc5747b889f20dc8e86b9
+    m_Address: Assets/Prefabs/HexagonTiles/grass (4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a458473c735abd94e8945b154290d0d8
+    m_Address: Assets/Prefabs/HexagonTiles/water (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8ea4300a6839f9440ab4fd49268be19e
+    m_Address: Assets/Prefabs/HexagonTiles/building_dock.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 026e1ce314e668f4ab96b95e7b024948
+    m_Address: Assets/Prefabs/HexagonTiles/water (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 33d32af8f2e83b54db57e129b4d17562
+    m_Address: Assets/Prefabs/HexagonTiles/grass (5).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ad456182c04c0e74c8db19633e1e0fe4
+    m_Address: Assets/Prefabs/HexagonTiles/building_farm.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cbf84266994990d46a75ee9ce78b5344
+    m_Address: Assets/Prefabs/HexagonTiles/building_village.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6a8e0ffb1477f9e4eafc85be81e0276d
+    m_Address: Assets/Prefabs/HexagonTiles/building_mill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 20acf87aee4553d469126471e75451f9
+    m_Address: Assets/Prefabs/HexagonTiles/grass (6).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c0c92a7936b4bb84f99f2d51eb7a1fbe
+    m_Address: Assets/Prefabs/HexagonTiles/building_market.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a9030c41902a8fb42ad26f72f730bc9b
+    m_Address: Assets/Prefabs/HexagonTiles/building_water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 36d20178533ba5c4d9f19b1fe5d7d143
+    m_Address: Assets/Prefabs/HexagonTiles/grass (7).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 62a62de982b07d6489a8c692f28f4f6d
+    m_Address: Assets/Prefabs/HexagonTiles/grass (10).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4cce105d271545c40a2c13d2d37c999d
+    m_Address: Assets/Prefabs/HexagonTiles/grass_forest (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b38db80d8f15d6240b104557d826978e
+    m_Address: Assets/Prefabs/HexagonTiles/grass (8).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8ed9700b2fb3a0741aadf32e02f1502d
+    m_Address: Assets/Prefabs/HexagonTiles/grass (9).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0dd4c46ba050da64a81acbe68a447f4b
+    m_Address: Assets/Prefabs/HexagonTiles/water (4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1e90669c77ac4e5478b8021f1f5a7442
+    m_Address: Assets/Prefabs/HexagonTiles/water (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eda541289224f344798c760f22c26a4b
+    m_Address: Assets/Prefabs/HexagonTiles/grass_hill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 026a41b4139d2b740b3a26d53097db36
+    m_Address: Assets/Prefabs/HexagonTiles/water_rocks.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 722277851edfc844da1d83fd455b579d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5ff3753c3011205409fa56ad0028930c, type: 2}
+    - {fileID: 11400000, guid: 64cd804fb01760d478c08c82ff427f32, type: 2}
