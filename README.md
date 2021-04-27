@@ -4,7 +4,7 @@
 
 Unity version 2020.3.5f1, Addressables package version 1.16.16, 3D assets made by [Kenney](https://twitter.com/KenneyNL)
 
-[Link to the medium article](https://www.google.com)
+[Link to the medium article](https://medium.com/@anthelme.dumont/how-to-make-a-chunk-system-in-unity-using-addressables-aff36956c546)
 
 ### Final renders
 
